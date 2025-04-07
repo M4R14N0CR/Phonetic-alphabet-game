@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <h1>Phonet alphabet game</h1>
+  <h1>Phonetic alphabet game</h1>
 
   <h2>Overview</h2>
   <p>
